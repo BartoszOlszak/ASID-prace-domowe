@@ -1,0 +1,17 @@
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\bin\Debug\net6.0-windows\NodeList.exe
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\bin\Debug\net6.0-windows\NodeList.deps.json
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\bin\Debug\net6.0-windows\NodeList.runtimeconfig.json
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\bin\Debug\net6.0-windows\NodeList.dll
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\bin\Debug\net6.0-windows\NodeList.pdb
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\NodeList.Form1.resources
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\NodeList.csproj.GenerateResource.cache
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\NodeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\NodeList.AssemblyInfoInputs.cache
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\NodeList.AssemblyInfo.cs
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\NodeList.csproj.CoreCompileInputs.cache
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\NodeList.sourcelink.json
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\NodeList.dll
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\refint\NodeList.dll
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\NodeList.pdb
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\NodeList.genruntimeconfig.cache
+C:\Users\Bartus47\Desktop\Studia\1\NodeList\obj\Debug\net6.0-windows\ref\NodeList.dll
