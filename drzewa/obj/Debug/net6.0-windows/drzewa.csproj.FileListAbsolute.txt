@@ -1,0 +1,17 @@
+C:\Users\Bartus47\source\repos\drzewa\bin\Debug\net6.0-windows\drzewa.exe
+C:\Users\Bartus47\source\repos\drzewa\bin\Debug\net6.0-windows\drzewa.deps.json
+C:\Users\Bartus47\source\repos\drzewa\bin\Debug\net6.0-windows\drzewa.runtimeconfig.json
+C:\Users\Bartus47\source\repos\drzewa\bin\Debug\net6.0-windows\drzewa.dll
+C:\Users\Bartus47\source\repos\drzewa\bin\Debug\net6.0-windows\drzewa.pdb
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\drzewa.Form1.resources
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\drzewa.csproj.GenerateResource.cache
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\drzewa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\drzewa.AssemblyInfoInputs.cache
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\drzewa.AssemblyInfo.cs
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\drzewa.csproj.CoreCompileInputs.cache
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\drzewa.sourcelink.json
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\drzewa.dll
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\refint\drzewa.dll
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\drzewa.pdb
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\drzewa.genruntimeconfig.cache
+C:\Users\Bartus47\source\repos\drzewa\obj\Debug\net6.0-windows\ref\drzewa.dll
