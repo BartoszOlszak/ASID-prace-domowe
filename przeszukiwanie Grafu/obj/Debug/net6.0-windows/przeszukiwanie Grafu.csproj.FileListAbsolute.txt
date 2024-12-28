@@ -1,0 +1,17 @@
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\bin\Debug\net6.0-windows\przeszukiwanie Grafu.exe
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\bin\Debug\net6.0-windows\przeszukiwanie Grafu.deps.json
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\bin\Debug\net6.0-windows\przeszukiwanie Grafu.runtimeconfig.json
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\bin\Debug\net6.0-windows\przeszukiwanie Grafu.dll
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\bin\Debug\net6.0-windows\przeszukiwanie Grafu.pdb
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\przeszukiwanie_Grafu.Form1.resources
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\przeszukiwanie Grafu.csproj.GenerateResource.cache
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\przeszukiwanie Grafu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\przeszukiwanie Grafu.AssemblyInfoInputs.cache
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\przeszukiwanie Grafu.AssemblyInfo.cs
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\przeszukiwanie Grafu.csproj.CoreCompileInputs.cache
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\przeszukiwanie Grafu.sourcelink.json
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\przeszukiwanie Grafu.dll
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\refint\przeszukiwanie Grafu.dll
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\przeszukiwanie Grafu.pdb
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\przeszukiwanie Grafu.genruntimeconfig.cache
+C:\Users\Bartus47\Desktop\Studia\1\przeszukiwanie Grafu\obj\Debug\net6.0-windows\ref\przeszukiwanie Grafu.dll
