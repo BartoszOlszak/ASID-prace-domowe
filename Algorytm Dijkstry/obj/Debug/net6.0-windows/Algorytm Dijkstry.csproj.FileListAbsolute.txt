@@ -1,0 +1,17 @@
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\bin\Debug\net6.0-windows\Algorytm Dijkstry.exe
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\bin\Debug\net6.0-windows\Algorytm Dijkstry.deps.json
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\bin\Debug\net6.0-windows\Algorytm Dijkstry.runtimeconfig.json
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\bin\Debug\net6.0-windows\Algorytm Dijkstry.dll
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\bin\Debug\net6.0-windows\Algorytm Dijkstry.pdb
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\Algorytm_Dijkstry.Form1.resources
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\Algorytm Dijkstry.csproj.GenerateResource.cache
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\Algorytm Dijkstry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\Algorytm Dijkstry.AssemblyInfoInputs.cache
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\Algorytm Dijkstry.AssemblyInfo.cs
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\Algorytm Dijkstry.csproj.CoreCompileInputs.cache
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\Algorytm Dijkstry.sourcelink.json
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\Algorytm Dijkstry.dll
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\refint\Algorytm Dijkstry.dll
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\Algorytm Dijkstry.pdb
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\Algorytm Dijkstry.genruntimeconfig.cache
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Dijkstry\obj\Debug\net6.0-windows\ref\Algorytm Dijkstry.dll
