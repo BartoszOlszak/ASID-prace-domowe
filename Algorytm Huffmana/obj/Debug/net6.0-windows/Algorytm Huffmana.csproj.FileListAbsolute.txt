@@ -1,0 +1,17 @@
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\bin\Debug\net6.0-windows\Algorytm Huffmana.exe
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\bin\Debug\net6.0-windows\Algorytm Huffmana.deps.json
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\bin\Debug\net6.0-windows\Algorytm Huffmana.runtimeconfig.json
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\bin\Debug\net6.0-windows\Algorytm Huffmana.dll
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\bin\Debug\net6.0-windows\Algorytm Huffmana.pdb
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\Algorytm_Huffmana.Form1.resources
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\Algorytm Huffmana.csproj.GenerateResource.cache
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\Algorytm Huffmana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\Algorytm Huffmana.AssemblyInfoInputs.cache
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\Algorytm Huffmana.AssemblyInfo.cs
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\Algorytm Huffmana.csproj.CoreCompileInputs.cache
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\Algorytm Huffmana.sourcelink.json
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\Algorytm Huffmana.dll
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\refint\Algorytm Huffmana.dll
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\Algorytm Huffmana.pdb
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\Algorytm Huffmana.genruntimeconfig.cache
+C:\Users\Bartus47\Desktop\Studia\1\asid\Algorytm Huffmana\obj\Debug\net6.0-windows\ref\Algorytm Huffmana.dll
